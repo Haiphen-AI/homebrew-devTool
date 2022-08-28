@@ -21,7 +21,6 @@ class Devtool < Formula
 
   #test do
     # `test do` will create, run in and delete a temporary directory.
-    #
     # This test will fail and we won't accept that! For Homebrew/homebrew-core
     # this will need to be a test that verifies the functionality of the
     # software. Run the test with `brew test devTool`. Options passed
